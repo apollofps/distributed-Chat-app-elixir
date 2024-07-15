@@ -1,5 +1,10 @@
-# ElixirChatApp
+# Distributed Chatroom application
 
+Requirements
+1. Erlang/OTP
+2. Elixir
+3. Postgresql
+   
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
