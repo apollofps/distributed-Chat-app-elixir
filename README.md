@@ -1,6 +1,6 @@
 # Distributed Chatroom Application
 
-I built a real-time group chat application using the Elixir programming language to demonstrate its capabilities in distributed systems communication. By integrating Elixir, the Phoenix framework, Phoenix Channels, and PostgreSQL for message storage, this project showcases how Elixir effectively handles real-time group messaging across multiple nodes. The diagram below illustrates the application's architecture, highlighting its distributed system features.
+Built a real-time group chat application using the Elixir programming language to demonstrate its capabilities in distributed systems communication. By integrating Elixir, the Phoenix framework, Phoenix Channels, and PostgreSQL for message storage, this project showcases how Elixir effectively handles real-time group messaging across multiple nodes. The diagram below illustrates the application's architecture, highlighting its distributed system features.
 
 ![Application Architecture](arch.png)
 
