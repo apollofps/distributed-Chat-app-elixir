@@ -1,0 +1,6 @@
+<h1> Chat Room </h1>
+<div id="chat">
+    <input type="text" id="username" placeholder="your name" value="<%= @current_user.email %>" readonly>
+
+<input type="text" id="msg"  placeholder="your message" autofocus >
+</div>
